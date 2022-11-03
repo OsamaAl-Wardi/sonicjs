@@ -100,7 +100,7 @@
     "underscore": "^1.12.0",
     "unzipper": "^0.10.11",
     "uuidv4": "^6.2.12",
-    "video.js": "^7.11.8",
+    "video.js": "^7.20.3",
     "yaml": "^1.10.0"
   },
   "devDependencies": {

@@ -24,7 +24,7 @@
     "@coreui/icons": "^0.4.1",
     "@fancyapps/ui": "^4.0.31",
     "@popperjs/core": "^2.9.2",
-    "@sendgrid/mail": "^7.6.1",
+    "@sendgrid/mail": "^8.0.0",
     "@simonwep/pickr": "^1.8.0",
     "app-root-path": "^3.0.0",
     "archiver": "^5.3.0",

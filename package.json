@@ -98,7 +98,7 @@
     "typeorm": "^0.2.41",
     "uglify-js": "^3.15.1",
     "underscore": "^1.12.0",
-    "unzipper": "^0.10.11",
+    "unzipper": "^0.12.1",
     "uuidv4": "^6.2.12",
     "video.js": "^7.11.8",
     "yaml": "^1.10.0"

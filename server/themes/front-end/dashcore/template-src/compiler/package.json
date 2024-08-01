@@ -23,7 +23,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.7.2",
     "angled-edges": "^2.0.0",
-    "bootstrap": "^4.3.1"
+    "bootstrap": "^5.0.0"
   },
   "browserslist": [
     "> 1%",
